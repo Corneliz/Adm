@@ -2,21 +2,25 @@
   {
     "id": 1,
     "codigo": "NSAWL",
-    "descripcion": "Software Administrativo Básico. Incluye horas de asesoría" 
+    "descripcion": "Software Administrativo Básico. Incluye horas de asesoría",
+    "precio": "852,00"
   },
   {
     "id": 2,
     "codigo": "NSAWLI",
-    "descripcion": "Software Administrativo Integrado con contabilidad general. Incluye horas de asesoría"  
+    "descripcion": "Software Administrativo Integrado con contabilidad general. Incluye horas de asesoría",
+    "precio": "4253,00"
   },
   {
     "id": 3,
     "codigo": "ASAW.CON",
-    "descripcion": "Actualización del programa SAW a SAW Integrado con Contabilidad"   
+    "descripcion": "Actualización del programa SAW a SAW Integrado con Contabilidad",
+    "precio": "1253,00"
   },
   {
     "id": 4,
     "codigo": "ISAW.CON",
-    "descripcion": "Módulo de integración del Software Administrativo con Contabilidad General"   
+    "descripcion": "Módulo de integración del Software Administrativo con Contabilidad General",
+    "precio": "653,00"
   }  
 ]
