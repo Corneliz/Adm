@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "codigo": "NSAWL",
+    "descripcion": "Software Administrativo Básico. Incluye horas de asesoría" 
+  },
+  {
+    "id": 2,
+    "codigo": "NSAWLI",
+    "descripcion": "Software Administrativo Integrado con contabilidad general. Incluye horas de asesoría"  
+  },
+  {
+    "id": 3,
+    "codigo": "ASAW.CON",
+    "descripcion": "Actualización del programa SAW a SAW Integrado con Contabilidad"   
+  },
+  {
+    "id": 4,
+    "codigo": "ISAW.CON",
+    "descripcion": "Módulo de integración del Software Administrativo con Contabilidad General"   
+  }  
+]
