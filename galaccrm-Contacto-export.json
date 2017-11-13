@@ -1,0 +1,12 @@
+{
+  "DetailContactoCorreo" : [ {
+    "Email" : "andreinacmv@gmail.com"
+  } ],
+  "DetailContactoTelefono" : [ {
+    "Numero" : "111",
+    "Tipo" : "Celular"
+  } ],
+  "Id" : 1,
+  "IdFiscal" : "23495372",
+  "Nombre" : "aaaa"
+}
