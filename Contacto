@@ -1,5 +1,4 @@
-{
-  "Contacto" : {
+[{
     "1510769763963" : {
       "DetailContactoCorreo" : [ {
         "Email" : "cornelizyoselin@gmail.com"
@@ -52,4 +51,4 @@
       "Nombre" : "Pablo Mendez"
     }
   }
-}
+]
