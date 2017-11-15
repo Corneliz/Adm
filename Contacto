@@ -1,0 +1,54 @@
+[
+     {
+      "DetailContactoCorreo" : [ {
+        "Email" : "cornelizyoselin@gmail.com"
+      } ],
+      "DetailContactoTelefono" : [ {
+        "Numero" : "04162323232",
+        "Tipo" : "Celular"
+      }, {
+        "Numero" : "04141212121",
+        "Tipo" : "Celular"
+      } ],
+      "Id" : 1510769763963,
+      "IdFiscal" : "23495372",
+      "Nombre" : "Yoselin Corneliz"
+    },
+    "1510769798171" : {
+      "DetailContactoCorreo" : [ {
+        "Email" : "jenni@gmail.com"
+      } ],
+      "DetailContactoTelefono" : [ {
+        "Numero" : "0212522252",
+        "Tipo" : "Casa"
+      } ],
+      "Id" : 1510769798171,
+      "IdFiscal" : "19483689",
+      "Nombre" : "Jennifer Morillo"
+    },
+    "1510769822180" : {
+      "DetailContactoCorreo" : [ {
+        "Email" : "cornelizyoselin@gmail.com"
+      } ],
+      "DetailContactoTelefono" : [ {
+        "Numero" : "2929239303",
+        "Tipo" : "Casa"
+      } ],
+      "Id" : 1510769822180,
+      "IdFiscal" : "12212121",
+      "Nombre" : "Ramiro Gonzalez"
+    },
+    "1510769876618" : {
+      "DetailContactoCorreo" : [ {
+        "Email" : "papapa@gmail.com"
+      } ],
+      "DetailContactoTelefono" : [ {
+        "Numero" : "1212236",
+        "Tipo" : "Celular"
+      } ],
+      "Id" : 1510769876618,
+      "IdFiscal" : "79855585",
+      "Nombre" : "Pablo Mendez"
+    }
+
+]
