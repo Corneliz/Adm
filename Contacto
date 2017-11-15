@@ -1,4 +1,4 @@
-[{
+[
     {
       "DetailContactoCorreo" : [ {
         "Email" : "cornelizyoselin@gmail.com"
@@ -50,5 +50,5 @@
       "IdFiscal" : "79855585",
       "Nombre" : "Pablo Mendez"
     }
-  }
+  
 ]
